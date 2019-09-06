@@ -6,7 +6,7 @@
     "email": "jlorias@hawaii.edu",
     "phone": "808-391-4157",
     "website": "https://jlorias.github.io",
-    "summary": "I am a Computer Engineering senior at the University of Hawaii College of Engineering. I am expected to graduate in Fall 2020.",
+    "summary": "A Computer Engineering senior at the University of Hawaii College of Engineering, expected to graduate in Fall 2020.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -29,33 +29,41 @@
   },
   "interests": [
     {
-      "name": "web development",
+      "name": "Web Development",
       "keywords": [
         "javascript",
         "html",
-        "css",
-        "UX",
-        "UI"
+        "css"
       ]
     },
     {
-      "name": "data analysis",
+      "name": "UX/UI Design",
+        "keywords": [
+        ]
+    },
+    {
+      "name": "Data Analysis",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
         "machine learning",
         "AI"
       ]
     }, 
     {
-      "name": "project management",
+      "name": "Project Management",
       "keywords": [
         
       ]
-    }
+    }, 
+    {
+      "name": "Video Game Design",
+      "keywords": [
+      ]
+    },
   ],
   "skills": [
     {
@@ -84,9 +92,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Fall, 2019)",
+      "area": "Computer Engineering (expected Fall, 2020)",
       "studyType": "B.S.",
-      "startDate": "2016-09",
+      "startDate": "2016-09-22",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,11 +103,51 @@
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
+      "company": "ICx Transportation Group",
+      "position": "Traffic Engineering Intern",
+      "website": "http://www.icxtg.com/",
+      "startDate": "2019-08-26",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Kapi'olani Community College STEM Program",
+      "position": "Production Assistant",
       "website": "",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2018-10-18",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+      ]
+    }, 
+    {
+      "company": "Caesars Entertainment",
+      "position": "eCommerce Global Product Intern",
+      "website": "https://www.caesars.com",
+      "startDate": "2019-05-13",
+      "endDate": "2019-08-09",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Caesars Entertainment",
+      "position": "Digital Marketing Analytics/Optimization Intern",
+      "website": "https://www.caesars.com",
+      "startDate": "2018-05-14",
+      "endDate": "2018-08-03",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "University of Hawaii, College of Education",
+      "position": "Student Assistant",
+      "website": "",
+      "startDate": "2017-06-27",
+      "endDate": "2018-05-11",
       "summary": "",
       "highlights": [
       ]
@@ -107,11 +155,21 @@
   ],
   "volunteer": [
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
+      "organization": "Engineers' Council at the University of Hawaii",
+      "website": "https://ecuh.org/",
+      "position": "President",
+      "startDate": "2019-05-08",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Engineers' Council at the University of Hawaii",
+      "website": "https://ecuh.org/",
+      "position": "VP of Communications",
+      "startDate": "2018-05-08",
+      "endDate": "2019-05-08",
       "summary": "",
       "highlights": [
       ]
