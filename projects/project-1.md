@@ -1,16 +1,19 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: 
+title: SCEL Dashboard
+permalink: projects/sceldashboard
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-01-08
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Web Development
+  - Front End Development
+  - Back End Development
+  - Javascript
+  - HTML
+  - CSS
+summary: My team (Dashboard) developed a weather dashboard prototype for the Smart Campus Energy Lab (SCEL). 
 ---
 
 <div class="ui small rounded images">
@@ -20,25 +23,17 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+The Smart Campus Energy Lab, or SCEL, strives to create a meteorological sensor platform
+throughout the University of Hawaii at Manoa, while utilizing renewable energy source
+devices that are both cost-efficient and self-sustaining. These SCEL weatherboxes allow the
+collection of weather data to determine optimal locations around the campus at UHM. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+As the Dashboard team, our primary objective is to obtain the meteorological data sent by
+SCEL’s weatherboxes and display it in an accessible user interface (i.e. UI) via graphical and
+numerical representations. Further, the purpose of creating this UI is to pull and grab data from
+the SCEL server, update and manipulate the data accordingly, and organize that data through
+simple navigation on the Dashboard UI. The foundations of this Dashboard stems from learning
+web development languages, which we needed to self-teach ourselves throughout the semester.
 
 
 
