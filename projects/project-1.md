@@ -5,7 +5,7 @@ image: images/dashboard-current.PNG
 title: SCEL Dashboard
 permalink: projects/sceldashboard
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-07
+date: 2019-01-08
 labels:
   - Web Development
   - Front End Development
