@@ -29,7 +29,7 @@ detected. We delegated the project in three tasks:
   <ol>
     <li> Motion detecting </li>
     <li> Phone Alarm </li>
-    <li Testing </li> 
+    <li> Testing </li> 
   </ol>
 
 I was in charge of creating a script that detected unauthorized movement. 
