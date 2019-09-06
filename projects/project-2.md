@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/pi.jpg
+title: Raspberry Pi Bike Alarm
 permalink: projects/bikealarm
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-30
@@ -15,7 +15,7 @@ labels:
 summary: A bike/alarm implemented through a Raspberry Pi and NodeRed on IBM Bluemix for EE 491. 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/nodered-node.png">
 
 As a commuter school with high parking fees, one of the best ways to travel onto campus 
 (besides bus) is to ride a moped. However, a lot of mopeds means a lot more thefts -- 
