@@ -3,23 +3,33 @@ layout: project
 type: project
 image: images/vacay-square.png
 title: Vacay
-permalink: projects/vacay
+permalink: projects/bikealarm
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-04-30
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Node.js
+  - IBM Bluemix
+  - Raspberry Pi
+  - NodeRed
+summary: A bike/alarm implemented through a Raspberry Pi and NodeRed on IBM Bluemix for EE 491. 
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+As a commuter school with high parking fees, one of the best ways to travel onto campus 
+(besides bus) is to ride a moped. However, a lot of mopeds means a lot more thefts -- 
+which is exactly the problem we addressed in the Bike Alarm project for our EE 491 class.
+The goal of the project was to implement a bike/moped alarm via a Raspberry Pi, and whenever 
+the Pi detected unauthorized movement, it would send an alert directly to your phone.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+We didn't add anything extra to the Pi itself, as it already contained a SenseHat that displayed
+an array of lights. The lights changed color from green to red as soon as unauthorized movement is
+detected. We delegated the project in three tasks: 
+  <ol>
+    <li> Motion detecting </li>
+    <li> Phone Alarm </li>
+    <li Testing </li> 
+  </ol>
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+I was in charge of creating a script that detected unauthorized movement. 
