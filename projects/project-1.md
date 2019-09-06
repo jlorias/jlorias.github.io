@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: /images/dashboard-current.png
 title: SCEL Dashboard
 permalink: projects/sceldashboard
 # All dates must be YYYY-MM-DD format!
@@ -17,10 +17,10 @@ summary: My team (Dashboard) developed a weather dashboard prototype for the Sma
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/dashboard-mockup.png">
+  <img class="ui image" src="../images/scel-current-individual-pages.png">
+  <img class="ui image" src="../images/code.png">
+  <img class="ui image" src="../images/parse.png">
 </div>
 
 The Smart Campus Energy Lab, or SCEL, strives to create a meteorological sensor platform
