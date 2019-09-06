@@ -82,10 +82,9 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "Adobe Target",
+        "Adobe Experience Manager"
       ]
     }
   ],
@@ -120,7 +119,8 @@
       "endDate": "Present",
       "summary": "Assists in the design, creation, and advertisement for KCC STEM events and announcements.",
       "highlights": [
-         "Created the Ho'omanalowai STEM Grant Website"
+         "Created the Ho'omanalowai STEM Grant Website",
+         "Created the event website for the KCC STEM Undergraduate Resource Fair"
       ]
     }, 
     {
@@ -129,8 +129,9 @@
       "website": "https://www.caesars.com",
       "startDate": "2019-05-13",
       "endDate": "2019-08-09",
-      "summary": "",
+      "summary": "Applied web development, design, and management into assisting the Caesars eCommerce team and improve the user experience on Caesars property pages.",
       "highlights": [
+        
       ]
     },
     {
@@ -139,7 +140,7 @@
       "website": "https://www.caesars.com",
       "startDate": "2018-05-14",
       "endDate": "2018-08-03",
-      "summary": "",
+      "summary": "Assisted the Caesars Analytics/Optimization team in deploying quality assurance (QA) testing on all Caesars property websites.",
       "highlights": [
       ]
     },
@@ -149,7 +150,7 @@
       "website": "",
       "startDate": "2017-06-27",
       "endDate": "2018-05-11",
-      "summary": "",
+      "summary": "Assisted the UH Manoa SPED Department in various office tasks requested by the professors and office managers.",
       "highlights": [
       ]
     }
