@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/new-employee-homepage.png
+image: images/new-employee-homepage2.png
 title: Caesars Entertainment New Employee Project
 permalink: projects/newemployee
 # All dates must be YYYY-MM-DD format!
