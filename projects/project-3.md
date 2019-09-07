@@ -32,5 +32,5 @@ Using Wix, I created a basic homepage layout that was both easy to navigate and 
 aesthetic. I corralled everyone's information into a basic layout that they could edit and set up a schedule
 that they could edit their page (since Wix only allows one person to edit at a time). Here's the final result: 
 
-  <a href= "https://joleonora.wixsite.com/new-employees-2k19"><b> Summer 2019 New Employees </b></a>
+  <a href= "https://joleonora.wixsite.com/new-employees-2k19"><b> Summer 2019 New Employees </b>
 
