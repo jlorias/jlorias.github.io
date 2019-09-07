@@ -28,9 +28,9 @@ easier than HTML or CSS, which are both also needed in Web Development. However,
 my honest opinion: 
 
   <ol>
-    <li> Knowing all the functions and shortcuts
+  <li> Knowing all the functions and shortcuts </li>
     <li> The implementation of it in an actual website</li>
-   </ol> 
+  </ol> 
  
 I didn't realize <i>just how many functions there are in Javascript.</i> It's insane to me. For example, the spread operator
 in E6, or the arrow function (personally, my favorite way of delcaring a function). Dealing with objects, object literals --
