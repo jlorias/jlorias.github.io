@@ -39,7 +39,7 @@ Web Developer and a UX/UI Designer, and learning Javascript as a foundation is p
 a lot to take in, I want to share one of the most important quotes from the Dev Team I worked with over the summer: 
 
   <blockquote>
-    "As a web developer, StackExchange is and will always be your best friend."
+    <b><i>"As a web developer, StackExchange is and will always be your best friend."</i></b>
   </blockquote>
   
 So I have hope for myself. 
