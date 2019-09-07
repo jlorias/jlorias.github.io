@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/dashboard-current.PNG
+image: images/dashboard-current2.PNG
 title: SCEL Dashboard
 permalink: projects/sceldashboard
 # All dates must be YYYY-MM-DD format!
