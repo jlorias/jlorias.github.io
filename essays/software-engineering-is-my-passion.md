@@ -16,3 +16,16 @@ maintain their databases, run their websites, etc., etc. And, as a person with t
 that I've found the right career path. 
 
 ## Versatility Brings Options
+
+Realizing the versatility of Software Engineering was a revelation to me. Not only can I combine different paths of software
+engineering together (e.g. data analysis and fullstack web development), I can implement software engineering to literally any 
+other career. Software engineering and business. Software engineering and creative media, or art. Software engineering with music. 
+The possibilities are endless! I'm not stuck to doing just one thing for the rest of my life -- I can have the background to 
+expand to different career areas where software engineering is needed (and make money by doing so). I especially like the 
+implementation of software engineering in business. I use this example very frequently, but interning at Caesars Entertainment (in
+Las Vegas, a place of booming business) really opened my eyes to it. I saw an entirely new light shed on csoftware engineering that
+wasn't for writing basic scripts, or government work. Software engineering was everywhere in that city in the form of entertainment
+and, most importantly, business. It all came together in a (sinful) harmony. 
+
+## Versatility Hopefully Doesn't Mean Jack of All Trades, Master of None...
+
