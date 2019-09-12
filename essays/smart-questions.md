@@ -21,9 +21,11 @@ the satisfaction received from these answers depends on just how "smart" the que
 ## The Satisfaction of Smart Questions
 -----
 
-Raymond refers to "answering a good question" as a stimuli and a gift. Generally, when we ask questions, it's because we 
-don't know the answer -- and so we look to the experts for help. For programming, we look to the more experienced programmers 
-("hackers", as what Raymond calls himself and others among the same level of expertise) for our solutions. Besides Google, 
-StackOverflow is home to many of our programming answers, where we ask and we shall receive. 
+Generally, when we ask questions, it's because we don't know the answer -- so we look to the experts for help. For programming,
+we look to the more experienced programmers ("hackers", as what Raymond calls himself and others among the same level of expertise) for 
+our solutions. Raymond refers to "answering a good question" as a stimuli and a gift. Besides Google, 
+StackOverflow is home to many of our programming answers, where if we ask, we shall receive.
+
+
 
 
