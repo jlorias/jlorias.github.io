@@ -23,8 +23,12 @@ the satisfaction received from these answers depends on just how "smart" the que
 
 Generally, when we ask questions, it's because we don't know the answer -- so we look to the experts for help. For programming,
 we look to the more experienced programmers ("hackers", as what Raymond calls himself and others among the same level of expertise) for 
-our solutions. Raymond refers to "answering a good question" as a stimuli and a gift. Besides Google, 
-StackOverflow is home to many of our programming answers, where if we ask, we shall receive.
+our solutions. Raymond refers to "answering a good question" as a stimuli and a gift. In other words, if the question is 
+thought-provoking, insightful, clearly looking to understand the concept behind the code, it will be received in a good light and the
+answers that come out of it are satisfactory. Questions that can be answered merely by a Google search, or where the asker is clearly 
+just looking for an answer to copy, are more likely to be blown off. 
+
+Besides Google, StackOverflow is home to many of our programming answers, where if we ask, we shall receive.
 
 
 
