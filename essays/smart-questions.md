@@ -36,7 +36,7 @@ side. Below are two questions asked on StackOverflow that exhibits an example of
 -----
 Let's start off with a **[very intelligent question](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array/11227902#11227902)** asked by a genuinely curious asker. 
 
-[![Screenshot of Smart StackOverflow Question](https://github.com/jlorias/jlorias.github.io/blob/master/smart-question.PNG "Smart Question")](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array/11227902#11227902)
+[![Screenshot of Smart StackOverflow Question](../images/smart-question.PNG "Smart Question")](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array/11227902#11227902)
 
 This is a question, by Raymond's standards, that hackers see as a stimulus and a gift. The asker clearly attempts to figure out why
 processing a sorted array is faster than processing an unsorted array -- not just once, but twice, in C++ *and* in Java. They have 
@@ -58,7 +58,7 @@ way.
 
 Now let's move onto **[a question that isn't necessarily a dumb question](https://stackoverflow.com/questions/13519990/why-does-i-j-k-j-i-kk-i-j-11)**, but one that isn't very thought-provoking.
 
-[![Screenshot of Non Smart StackOverflow Question](https://github.com/jlorias/jlorias.github.io/blob/master/not-smart-question.PNG "Not Smart Question")](https://stackoverflow.com/questions/13519990/why-does-i-j-k-j-i-kk-i-j-11)
+[![Screenshot of Non Smart StackOverflow Question](../images/not-smart-question.PNG "Not Smart Question")](https://stackoverflow.com/questions/13519990/why-does-i-j-k-j-i-kk-i-j-11)
 
 The questions asked in this post could have easily been solved through a simple Google search. Asking "How does this work?" may elicit
 some thought, but the asker doesn't show any signs of attempt at this problem, and is in fact just looking for an immediate answer to 
