@@ -44,11 +44,11 @@ processing a sorted array is faster than processing an unsorted array -- not jus
 results for the first attempt, they have a result for their second attempt. They have their examples to support their questions, and 
 are still eager to figure out the answer. They end their post with insightful questions:
 
-> My first thought was that sorting brings the data into the cache, but then I thought how silly that was because the 
+> "My first thought was that sorting brings the data into the cache, but then I thought how silly that was because the 
 > array was just generated.
 > What is going on?
 > Why is processing a sorted array faster than processing an unsorted array? The code is summing up some independent terms,
-> so the order should not matter.
+> so the order should not matter."
 
 The responses to the post exhibit the same amount of enthusiasm and insightfulness. The most upvoted response gave an analogy that
 elaborately related branch predictions to sorting arrays, which gave a perfect answer that provoked thoughtfulness every step of the 
