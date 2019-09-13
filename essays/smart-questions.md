@@ -36,7 +36,7 @@ side. Below are two questions asked on StackOverflow that exhibits an example of
 -----
 Let's start off with a **[very intelligent question](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array/11227902#11227902)** asked by a genuinely curious asker. 
 
-<img class="smart-question" src="{{ site.baseurl }}/images/smart-question.PNG">
+<img class="smart question" src="../smart-question.PNG">
 
 
 This is a question, by Raymond's standards, that hackers see as a stimulus and a gift. The asker clearly attempts to figure out why
@@ -59,7 +59,7 @@ way.
 
 Now let's move onto **[a question that isn't necessarily a dumb question](https://stackoverflow.com/questions/13519990/why-does-i-j-k-j-i-kk-i-j-11)**, but one that isn't very thought-provoking.
 
-<img class="not-smart-question" src="{{ site.baseurl }}images/not-smart-question.PNG">
+<img class="not-smart-question" src="../not-smart-question.PNG">
 
 The questions asked in this post could have easily been solved through a simple Google search. Asking "How does this work?" may elicit
 some thought, but the asker doesn't show any signs of attempt at this problem, and is in fact just looking for an immediate answer to 
