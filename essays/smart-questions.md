@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Not Smart" Questions Do Exist
+title: Not Smart Questions Do Exist
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-11
 labels:
