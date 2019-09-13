@@ -36,7 +36,7 @@ side. Below are two questions asked on StackOverflow that exhibits an example of
 -----
 Let's start off with a **[very intelligent question](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array/11227902#11227902)** asked by a genuinely curious asker. 
 
-<img class="smart question" src="../smart-question.PNG">
+<img class="smart question" src="../smart-question.PNG" style="width:auto;height:auto;">
 
 
 This is a question, by Raymond's standards, that hackers see as a stimulus and a gift. The asker clearly attempts to figure out why
