@@ -61,12 +61,13 @@ Now let's move onto **[a question that isn't necessarily a dumb question](https:
 
 <img class="not-smart-question" src="../images/not-smart-question.PNG">
 
-The questions asked in this post could have easily been solved through a simple Google search. Asking "How does this work?" may elicit
-some thought, but the asker doesn't show any signs of attempt at this problem, and is in fact just looking for an immediate answer to 
-their question. Raymond states that you should always look for the answers in Google first, as there might easily be someone out
-there that has already asked the question you're trying to answer. In addition, he also stated that going to a forum like 
-StackOverflow and posting elementary questions might get you "written off as a loser", which is clearly evident in the amount of
-downvotes this question received. A question about operators and an old piece of code, in this case, is a question that could have easily been solved independently.
+The asker's questions about general and bit shifting operators in this post could have easily been solved through a simple Google 
+search. Asking "How does this work?" may elicit some thought, but the asker doesn't show any signs of attempt at this problem, and 
+is in fact just looking for an immediate answer to their question. Raymond states that you should always look for the answers in Google 
+first, as there might easily be someone out there that has already asked the question you're trying to answer. In addition, he also
+stated that going to a forum like StackOverflow and posting elementary questions might get you "written off as a loser", which is
+clearly evident in the amount of downvotes this question received. A question about operators and an old piece of code, in this case, 
+is a question that could have easily been solved independently.
 
 ## Question Your Questions
 -----
