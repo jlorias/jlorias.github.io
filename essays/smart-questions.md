@@ -34,7 +34,7 @@ side. Below are two questions asked on StackOverflow that exhibits an example of
 
 ## A "Smart" Question
 -----
-Let's start off with a very intelligent question asked by a genuinely curious asker. 
+Let's start off with a [very intelligent question]("https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array/11227902#11227902") asked by a genuinely curious asker. 
 
 [![Screenshot of Smart StackOverflow Question](https://github.com/jlorias/jlorias.github.io/blob/master/smart-question.PNG "Smart Question")]("https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array/11227902#11227902")
 
@@ -56,7 +56,7 @@ way.
 ## A "Not Smart" Question
 -----
 
-Now let's move onto a question that isn't necessarily a dumb question, but one that isn't very thought-provoking.
+Now let's move onto [a question that isn't necessarily a dumb question]("https://stackoverflow.com/questions/13519990/why-does-i-j-k-j-i-kk-i-j-11"), but one that isn't very thought-provoking.
 
 [![Screenshot of Non Smart StackOverflow Question](https://github.com/jlorias/jlorias.github.io/blob/master/not-smart-question.PNG "Not Smart Question")]("https://stackoverflow.com/questions/13519990/why-does-i-j-k-j-i-kk-i-j-11")
 
