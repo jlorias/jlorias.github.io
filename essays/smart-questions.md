@@ -32,9 +32,13 @@ Besides Google, StackOverflow is home to many of our programming answers, where 
 since it's a forum that anyone can just use, you've got the "smart" questions and the "not so smart" questions mixed in there side by 
 side. Below are two questions asked on StackOverflow that exhibits an example of a "not smart" question, and a "smart" question. 
 
-#"Not Smart" Question
+##"Not Smart" Question
 -----
 
+Let's start with a question that isn't necessarily a dumb question, but one that isn't very thought-provoking and could actually be
+solved with a simple Google search.
+
+![Screenshot of Non Smart StackOverflow Question](https://github.com/jlorias/jlorias.github.io/blob/master/not-smart-question.PNG "Not Smart Question")
 
 
 
