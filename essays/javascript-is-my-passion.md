@@ -16,6 +16,7 @@ Using Javascipt: it isn't my first rodeo...
 ...but I still get knocked off my feet anyway. 
 
 ## My Experience with Javascript
+-----
 
 I had an "idea" of what Javascript was even when I first started out in EE 160, when I was programming spaghetti code in C, 
 all those semesters ago. It wasn't until about last year -- Summer 2018 -- when I was fully introduced to the application 
@@ -43,6 +44,7 @@ a lot to take in, I want to share one of the most important quotes from the Dev 
 So I have hope for myself. 
  
 ## My Thoughts on ICS 314 (Thus Far) 
+-----
 
 Now, with that said about Javascript, I find Professor Johnson's athletic software engineering pedagogy really interesting, 
 because not only does it stress me out, it evokes the extremely competitive trait I have and makes me *want* to do better.
