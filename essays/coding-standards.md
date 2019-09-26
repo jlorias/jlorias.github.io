@@ -12,7 +12,7 @@ labels:
   - IntelliJ
 ---
 
-# "Don't write spaghetti code!" 
+### "Don't write spaghetti code!" 
 -----
 
 That quote is one I will never forget even as a senior. Writing code is like writing any
@@ -27,7 +27,7 @@ goal, it's also important that we're all on the same level of communication and 
 In terms of coding, this is where coding standards come into play as one of the most 
 crucial aspects of software development. 
 
-# Structure to a chaos of ideas
+### Structure to a chaos of ideas
 -----
 
 When everyone is on the same page, that's as close to harmony as you can get, especially
