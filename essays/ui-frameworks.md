@@ -15,7 +15,7 @@ labels:
 ---
 
 #The prettyPrint() For Websites
------
+-------
 Have you seen one of those websites from the 90s? Plain design, Times New Roman font, basic HTML and CSS layout. 
 Maybe an image in the background that repeated in tiles. While these websites contain the necessary information needed
 to be displayed, the visual layout -- the UX and UI design -- is severely  lacking. There's no appeal, there's no user-friendly
@@ -29,7 +29,7 @@ It makes the UI designer/web developer's life both easier, and simultaneously ha
 learning an entirely new language. 
 
 #Semantic UI -- Amazing, Yet Stressful
------
+-------
 Over the past week, we've been working with the UI framework **Semantic UI** and it's made designing websites a tad bit more easier.
 The framework has so many elements that are crucial for designing beautiful and effective websites, without the use of heavy CSS (amazing,
 in my humble opinion). Designing a menu, integrating images and icons onto the website, and overall creating the website has become
