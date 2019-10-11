@@ -14,7 +14,7 @@ labels:
   - IntelliJ
 ---
 
-#The prettyPrint() For Websites
+### The prettyPrint() For Websites
 -------
 Have you seen one of those websites from the 90s? Plain design, Times New Roman font, basic HTML and CSS layout. 
 Maybe an image in the background that repeated in tiles. While these websites contain the necessary information needed
@@ -28,7 +28,7 @@ appeal. UI frameworks allow us to modify our websites in ways that we want to, w
 It makes the UI designer/web developer's life both easier, and simultaneously harder, since learning a new framework is almost like
 learning an entirely new language. 
 
-#Semantic UI -- Amazing, Yet Stressful
+### Semantic UI -- Amazing, Yet Stressful
 -------
 Over the past week, we've been working with the UI framework **Semantic UI** and it's made designing websites a tad bit more easier.
 The framework has so many elements that are crucial for designing beautiful and effective websites, without the use of heavy CSS (amazing,
