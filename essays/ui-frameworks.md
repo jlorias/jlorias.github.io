@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: A Reflection on UI Frameworks
+title: Bea(U)t(I) is in the Eye of the (Frameworks)
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-10
 labels:
