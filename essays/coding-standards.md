@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: A Reflection on Coding Standards
+title: OBEY THE STANDARDS!
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-25
 labels:
