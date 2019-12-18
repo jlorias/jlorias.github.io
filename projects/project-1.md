@@ -40,7 +40,7 @@ extremely unfamiliar with most of the materials and tools used. The learning cur
 definitely a roadblock in our process but we were able to create our ideal UI by the end of the
 semester.
 
-## Goals and achievements
+## Goals and Achievements
 We began by designing a mockup on paper, followed by creating an electronic copy of
 that mockup. The next step entailed drafting a programmed design of the user interface, and from
 there, develop a successful product that performed the basic functionalities of the Dashboard.

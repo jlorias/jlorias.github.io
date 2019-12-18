@@ -40,7 +40,7 @@ This project was created by a group of 5 talented individuals:
     - Rebecca Vatnebryn
  
  This was a month-long process that required an immense collaborative effort over Slack and GitHub. Our end product
- can be found [here](http://studious.toomanyco.ws/). See our documented progress at our official [GitHub](https://studious-manoa.github.io/)!
+ can be found [here](http://studiousmanoa.meteorapp.com/#). See our documented progress at our official [GitHub](https://studious-manoa.github.io/)!
  
 While this was a collaborative effort, I was in charge of most of the UI design and layouts of the website, as well as
 fixing up functionalities (e.g. the NavBar, Footer, Search Engine), minor bugs, and deployment of the web application. 
