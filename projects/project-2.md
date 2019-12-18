@@ -20,6 +20,7 @@ summary: A mock full stack web development group project that utilized Semantic 
   <img class="ui image" src="../images/sm-landing.png">
   <img class="ui image" src="../images/location.jpg">
   <img class="ui image" src="../images/locationindi.jpg">
+  <img class="ui image" src="../images/addlocation.jpg">
 </div>
 
 *Ever wonder where's a good place to study at and around UH Manoa?*

@@ -14,7 +14,7 @@ labels:
 summary: My team (Dashboard) developed and is still developing a weather dashboard for the Smart Campus Energy Lab (SCEL). 
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/dashboard-mockup.png">
   <img class="ui image" src="../images/scel-current-individual-pages.PNG">
   <img class="ui image" src="../images/code.png">
