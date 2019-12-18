@@ -12,9 +12,9 @@ labels:
   - Web Design
 summary: Not programming related, but it's a little foray into Project Management in a business setting and it did introduce me to the basic concepts of UX/Web Design. 
 ---
+[![](../images/jianna-new-employee.png "New Employee Project")]
 
-<img class="ui image" src="{{ site.baseurl }}/images/jianna-new-employee.png">
-
+## Fun Little Thing
 Like the summary stated, this isn't a programming related project at all -- this was more of a showcase of my
 project management skills (which got me major brownie points). 
 
@@ -31,6 +31,5 @@ presentations of the sort", the group automatically assigned me the leader of th
 Using Wix, I created a basic homepage layout that was both easy to navigate and still under Caesars' website 
 aesthetic. I corralled everyone's information into a basic layout that they could edit and set up a schedule
 that they could edit their page (since Wix only allows one person to edit at a time). Here's the final result: 
-
-  <a href= "https://joleonora.wixsite.com/new-employees-2k19"><b> Summer 2019 New Employees </b>
+**[Summer 2019 New Employees](https://joleonora.wixsite.com/new-employees-2k19")**
 

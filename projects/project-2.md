@@ -1,35 +1,40 @@
 ---
 layout: project
 type: project
-image: images/pi.jpg
-title: Raspberry Pi Bike Alarm
-permalink: projects/bikealarm
+image: images/sm-landing.png
+title: Studious Manoa
+permalink: projects/studious-manoa
 # All dates must be YYYY-MM-DD format!
-date: 2018-04-30
+date: 2019-11-12
 labels:
-  - Javascript
-  - Node.js
-  - IBM Bluemix
-  - Raspberry Pi
-  - NodeRed
-summary: A bike/alarm implemented through a Raspberry Pi and NodeRed on IBM Bluemix for EE 491. 
+  - Web development
+  - Fullstack Development
+  - Front end
+  - Back end
+  - Semantic UI React
+  - Meteor
+summary: A mock full stack web development group project that utilized Semantic UI React and Meteor to show the numerous study places at UH.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/nodered-node.png">
+[![](../images/sm-landing.png "Studious Manoa Homepage")](http://studious.toomanyco.ws/)
 
-As a commuter school with high parking fees, one of the best ways to travel onto campus 
-(besides bus) is to ride a moped. However, a lot of mopeds means a lot more thefts -- 
-which is exactly the problem we addressed in the Bike Alarm project for our EE 491 class.
-The goal of the project was to implement a bike/moped alarm via a Raspberry Pi, and whenever 
-the Pi detected unauthorized movement, it would send an alert directly to your phone.
+*Ever wonder where's a good place to study at and around UH Manoa?*
 
-We didn't add anything extra to the Pi itself, as it already contained a SenseHat that displayed
-an array of lights. The lights changed color from green to red as soon as unauthorized movement is
-detected. We delegated the project in three tasks: 
-  <ol>
-    <li> Motion detecting </li>
-    <li> Phone Alarm </li>
-    <li> Testing </li> 
-  </ol>
+Studious Manoa is a full stack web application that allows people in the UH community to find places where
+they can kick back, whip out their notes, and study. This project features a map in which you can find your 
+study spot, as well as gives you a detailed list of the different spots and what people think of them. Inspired
+somewhat by Yelp, Studious Manoa is designed to not only help students find their right study space, but also
+to encourage them to continuously use our interface.
 
-I was in charge of creating a script that detected unauthorized movement. 
+This project was created by a group of 5 talented individuals: 
+    - Eric Botello
+    - Nathaniel Tomchak
+    - Jianna Orias (yours truly!)
+    - Sahra Moseby
+    - Rebecca Vatnebryn
+ 
+ This was a month-long process that required an immense collaborative effort over Slack and GitHub. Our end product
+ can be found [here](http://studious.toomanyco.ws/). See our documented progress at our official [GitHub](https://studious-manoa.github.io/)!
+ 
+While this was a collaborative effort, I was in charge of most of the UI design and layouts of the website, as well as
+fixing up functionalities (e.g. the NavBar, Footer, Search Engine), minor bugs, and deployment of the web application. 

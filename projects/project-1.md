@@ -10,10 +10,8 @@ labels:
   - Web Development
   - Front End Development
   - Back End Development
-  - Javascript
-  - HTML
-  - CSS
-summary: My team (Dashboard) developed a weather dashboard prototype for the Smart Campus Energy Lab (SCEL). 
+  
+summary: My team (Dashboard) developed and is still developing a weather dashboard for the Smart Campus Energy Lab (SCEL). 
 ---
 
 <div class="ui small rounded images">
@@ -23,11 +21,13 @@ summary: My team (Dashboard) developed a weather dashboard prototype for the Sma
   <img class="ui image" src="../images/parse.png">
 </div>
 
+## What is SCEL?
 The Smart Campus Energy Lab, or SCEL, strives to create a meteorological sensor platform
 throughout the University of Hawaii at Manoa, while utilizing renewable energy source
 devices that are both cost-efficient and self-sustaining. These SCEL weatherboxes allow the
 collection of weather data to determine optimal locations around the campus at UHM. 
 
+## What's the Dashboard Team?
 As the Dashboard team, our primary objective is to obtain the meteorological data sent by
 SCEL’s weatherboxes and display it in an accessible user interface (i.e. UI) via graphical and
 numerical representations. Further, the purpose of creating this UI is to pull and grab data from
@@ -40,6 +40,7 @@ extremely unfamiliar with most of the materials and tools used. The learning cur
 definitely a roadblock in our process but we were able to create our ideal UI by the end of the
 semester.
 
+## Goals and achievements
 We began by designing a mockup on paper, followed by creating an electronic copy of
 that mockup. The next step entailed drafting a programmed design of the user interface, and from
 there, develop a successful product that performed the basic functionalities of the Dashboard.
@@ -65,3 +66,9 @@ from the APIs; however, they would bring up file reading errors and invalid func
 syntactically correct and should have hypothetically worked. We eventually settled on a simple data parser to
 save for time, which does in fact read the data from an uploaded .csv file and parse the data into an object array. 
 
+## Current Progress
+We eventually had to redesign our project because there were too many images to render for a dashboard. We also went 
+an experimental route and used Python to implement the back-end data processing, but we learned that pure Python was 
+not ideal for web development late into this semester's progress (which was rough). We're aiming to transfer our current
+front-end from Semantic UI to Semantic UI React and Meteor, possibly. The back-end will be implemented through SQL, MySQL,
+and Django, which we will have to self-teach ourselves over the winter break.
