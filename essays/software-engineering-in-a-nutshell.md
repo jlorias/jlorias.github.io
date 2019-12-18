@@ -11,7 +11,7 @@ labels:
   - Web Development
   - UI Design
 ---
-## A Stepping Stone in My Career
+### A Stepping Stone in My Career
 Man, has it been a semester with this class in my schedule. Yet, despite the 
 courseload, ICS 314 has been one of the few classes where I strived to do my
 very best and learn the concepts. I finally started to see what I wanted to do 
@@ -19,7 +19,7 @@ in my career. Considering the fact that I didn't have an answer to "What do you 
 o do/be when you graduate from college?" earleir this year, this class has been miraculous
 on a lot of aspects of my life.
 
-## The Basics, and then Some
+### The Basics, and then Some
 We primarily focused on the design and creation of web applications (which personally was a
 blessing for me as it strengthened my desire to pursue this line of career in the future).
 Regardless, these web applications gave us the opportunity to learn the foundations of what it's
