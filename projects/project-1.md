@@ -21,7 +21,7 @@ summary: My team (Dashboard) developed and is still developing a weather dashboa
   <img class="ui image" src="../images/parse.png">
 </div>
 
-## What is SCEL?
+## What the SCEL?
 The Smart Campus Energy Lab, or SCEL, strives to create a meteorological sensor platform
 throughout the University of Hawaii at Manoa, while utilizing renewable energy source
 devices that are both cost-efficient and self-sustaining. These SCEL weatherboxes allow the

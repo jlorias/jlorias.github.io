@@ -16,7 +16,11 @@ labels:
 summary: A mock full stack web development group project that utilized Semantic UI React and Meteor to show the numerous study places at UH.
 ---
 
-[![](../images/sm-landing.png "Studious Manoa Homepage")](http://studious.toomanyco.ws/)
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/sm-landing.png">
+  <img class="ui image" src="../images/location.jpg">
+  <img class="ui image" src="../images/locationindi.jpg">
+</div>
 
 *Ever wonder where's a good place to study at and around UH Manoa?*
 
@@ -27,6 +31,7 @@ somewhat by Yelp, Studious Manoa is designed to not only help students find thei
 to encourage them to continuously use our interface.
 
 This project was created by a group of 5 talented individuals: 
+
     - Eric Botello
     - Nathaniel Tomchak
     - Jianna Orias (yours truly!)

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/new-employee-homepage2.png
+image: images/new-employee-homepage.png
 title: Caesars Entertainment New Employee Project
 permalink: projects/newemployee
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,10 @@ labels:
   - Web Design
 summary: Not programming related, but it's a little foray into Project Management in a business setting and it did introduce me to the basic concepts of UX/Web Design. 
 ---
-[![](../images/jianna-new-employee.png "New Employee Project")]
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/new-employee-homepage.png">
+  <img class="ui image" src="../images/jianna-new-employee.png">
+</div>
 
 ## Fun Little Thing
 Like the summary stated, this isn't a programming related project at all -- this was more of a showcase of my
