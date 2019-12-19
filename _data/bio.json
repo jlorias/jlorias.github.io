@@ -31,9 +31,11 @@
     {
       "name": "Web Development",
       "keywords": [
-        "javascript",
-        "html",
-        "css"
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "keywords": [
       ]
     },
     {
@@ -49,8 +51,6 @@
     {
       "name": "Artificial Intelligence",
       "keywords": [
-        "machine learning",
-        "AI"
       ]
     }, 
     {
@@ -63,7 +63,7 @@
       "name": "Video Game Design",
       "keywords": [
       ]
-    },
+    }
   ],
   "skills": [
     {
@@ -74,7 +74,10 @@
         "C++",
         "Java",
         "Javascript",
-        "Python"
+        "Python",
+        "React",
+        "Semantic UI",
+        "Meteor"
       ]
     },
     {
@@ -84,7 +87,10 @@
         "MacOS",
         "Windows",
         "Adobe Target",
-        "Adobe Experience Manager"
+        "Adobe Experience Manager",
+        "IntelliJ",
+        "Visual Studio Code",
+        "GitHub"
       ]
     }
   ],
@@ -95,7 +101,7 @@
       "studyType": "B.S.",
       "startDate": "2016-09-22",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.13",
       "courses": [
       ]
     }
@@ -106,9 +112,12 @@
       "position": "Traffic Engineering Intern",
       "website": "http://www.icxtg.com/",
       "startDate": "2019-08-26",
-      "endDate": "Present",
-      "summary": "Supports and reviews the development of plans for traffic signals, intelligent transportation system devices; compiles and analyzes various travel time traffic data.",
+      "endDate": "2019-12-13",
+      "summary": "",
       "highlights": [
+          "Reviewed the development of Oahu Traffic Control Plans for discrepancies in traffic signals and intelligent transportation systems",
+          "Compiled and analyzed traffic data traffic data from various travel time devices",
+          "Collected and documented weekly Freeway Service Patrol (FSP) surveys and postage"
       ]
     },
     {
@@ -120,7 +129,8 @@
       "summary": "Assists in the design, creation, and advertisement for KCC STEM events and announcements.",
       "highlights": [
          "Created the Ho'omanalowai STEM Grant Website",
-         "Created the event website for the KCC STEM Undergraduate Resource Fair"
+         "Created the event website for the KCC STEM Undergraduate Resource Fair",
+          "Designed the STEM Undergraduate Resource Fair Program"
       ]
     }, 
     {
@@ -129,9 +139,12 @@
       "website": "https://www.caesars.com",
       "startDate": "2019-05-13",
       "endDate": "2019-08-09",
-      "summary": "Applied web development, design, and management into assisting the Caesars eCommerce team and improve the user experience on Caesars property pages.",
+      "summary": "",
       "highlights": [
-        
+        "Managed and edited content on all Caesars Entertainment property websites via Adobe Experience Manager",
+        "Performed quality assurance (QA) tests to guarantee website functionality and optimal user experience for new content",
+        "Collaborated with the UX Design, Web Development, and Production Teams to brainstorm new website content",
+        "Led and organized a New Employee Introduction presentation for all of the new Digital Marketing employees"
       ]
     },
     {
@@ -142,6 +155,9 @@
       "endDate": "2018-08-03",
       "summary": "Assisted the Caesars Analytics/Optimization team in deploying quality assurance (QA) testing on all Caesars property websites.",
       "highlights": [
+        "First hired intern for the Analaytics/Optimization professional team",
+        "Maintained all of the Caesars Entertainment hotel property websites via Adobe Target",
+        "Performed quality assurance (QA) tests to ensure optimal user experience and increase conversion rates to websites"
       ]
     },
     {
@@ -157,13 +173,17 @@
   ],
   "volunteer": [
     {
-      "organization": "Engineers' Council at the University of Hawaii",
+      "organization": "Engineers' Council at the University of Hawaii (ECUH)",
       "website": "https://ecuh.org/",
       "position": "President",
       "startDate": "2019-05-08",
       "endDate": "Present",
       "summary": "",
       "highlights": [
+        "Leads the College of Engineering student council (ECUH)",
+        "Organizes meetings within the College of Engineering faculty and student body",
+        "Plans, budgets, and implements various ECUH-sponsored events",
+        "Managed 50+ students as Volunteer Coordinator for the Fall 2019 VEX Robotics Tournament"
       ]
     },
     {
@@ -174,8 +194,12 @@
       "endDate": "2019-05-08",
       "summary": "",
       "highlights": [
+        "Responsible for managing the mass emailing system for ECUH",
+        "Assisted in organizing various ECUH-sponsored events",
+        "Managed almost 80+ students as Volunteer Coordinator for the Fall 2018 ECUH VEX Robotics Tournament and the Spring 2019 HECO VEX VRC Robotics Championship",
+        "ECUH/Hawaii representative at the 2019 National Association of Engineering Student Council (NAESC) Engineering Leadership Summit"
       ]
-    },
+    }
   ],
   "awards": [
     {
